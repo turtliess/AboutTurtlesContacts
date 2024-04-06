@@ -7,6 +7,7 @@ header {
     background-color: #009229;
     border-bottom: 10px solid #004413;
     margin: 0px;
+    height: 110px;
 }
 
 nav {
@@ -14,6 +15,12 @@ nav {
     margin-bottom: 20px;
     margin-top: 20px;
     padding: 10px;
+}
+
+.logo {
+    width: 110px;
+    height: 110px;
+    float: left;
 }
 
 nav a {
@@ -35,6 +42,8 @@ h1 {
     text-align: center;
     color: #005E2B;
     border-bottom: 5px dashed #005E2B;
+    width: 200px;
+    margin-left: 500px;
 }
 
 main p {
